@@ -1,6 +1,9 @@
 package chl;
 
 public class testff {
-system.out.println(" dddd");
+public static void main(String[] args) {
+	System.out.println("hello");
+}
+  
   
 }
